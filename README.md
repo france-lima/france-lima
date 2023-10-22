@@ -1,12 +1,8 @@
-Hi there, I'm France Lima :)
-an obstinate curious mind and a passionate data analyst. 🌐💻
-
 ![Banner](https://static.vecteezy.com/system/resources/thumbnails/000/693/934/small/dark-blue-technology-and-high-tech-abstract-background.jpg)
 
 ---
-
-## 🚀 Sobre Mim
-Sou um(a) apaixonado(a) por tecnologia...
+Hi there, I'm France Lima :)
+an obstinate curious mind and a passionate data analyst. 🌐💻
 
 ---
 
