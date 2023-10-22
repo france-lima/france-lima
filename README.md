@@ -1,4 +1,4 @@
-<h1 style="color: #4CAF50; font-family: Arial, sans-serif; font-size: 28px;">Hi there, I'm France Lima 🙂</h1>
+<h1 style="color: #4CAF50; font-family: Arial, sans-serif; font-size: 28px;">Hi there, I'm France Lima  :)</h1>
 
 <p style="color: #FF9800; font-family: 'Comic Sans MS', sans-serif; font-size: 24px;">
     <i>an obstinate curious mind and a passionate data analyst.</i> 🌐💻
@@ -9,7 +9,8 @@
 
 ## 
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:france.nuneslima@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/france-lima)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:france.nuneslima@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/france-lima)
+
 
 
 
