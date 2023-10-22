@@ -17,12 +17,6 @@ Sou um(a) apaixonado(a) por tecnologia...
 
 ---
 
-## 🖥️ Projetos
-- [Projeto 1](url)
-- [Projeto 2](url)
-
----
-
 ## 📫 Contato
 - Email: seuemail@example.com
 - LinkedIn: [Seu LinkedIn](url)
